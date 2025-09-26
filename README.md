@@ -24,10 +24,12 @@ Certificates included (click to open full size):
 ## Repository structure
 ```text
 certificates/
-├─ README.md
+├─ .nojekyll
 ├─ AdvancedPython3_Codecademy.pdf
 ├─ CommandLineCert_Codecademy.pdf
 ├─ ComputerScienceCert_Codecademy.pdf
 ├─ DataEngineerCert_Codecademy.pdf
+├─ index.html
 ├─ LearnGit-GitHubCert_Codecademy.pdf
-└─ MongoDBCert_Codecademy.pdf
+├─ MongoDBCert_Codecademy.pdf
+└─ README.md
