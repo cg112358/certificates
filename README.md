@@ -2,7 +2,6 @@
 
 This repository contains professional certificates demonstrating hands-on skills in Python, data engineering, version control, command line, MongoDB, and core CS topics.
 
-## Certificates
 **View online (no download):** https://cg112358.github.io/certificates/
 
 ## Certificates
