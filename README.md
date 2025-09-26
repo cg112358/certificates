@@ -39,6 +39,3 @@ Certificates included (click to open full size):
 ```
 <!-- END REPO TREE -->
 
-.nojekyll
-index.html
-README.md
