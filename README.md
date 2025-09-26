@@ -4,13 +4,14 @@ This repository contains professional certificates demonstrating hands-on skills
 
 **View online (no download):** https://cg112358.github.io/certificates/
 
-## Certificates
-- 📄 [Advanced Python 3 (Codecademy)](https://cg112358.github.io/certificates/#advanced-python-3)
-- 📄 [Command Line (Codecademy)](https://cg112358.github.io/certificates/#command-line)
-- 📄 [Computer Science (Codecademy)](https://cg112358.github.io/certificates/#computer-science)
-- 📄 [Data Engineer (Codecademy)](https://cg112358.github.io/certificates/#data-engineer)
-- 📄 [Learn Git & GitHub (Codecademy)](https://cg112358.github.io/certificates/#learn-git-github)
-- 📄 [MongoDB (Codecademy)](https://cg112358.github.io/certificates/#mongodb)
+Certificates included (click to open full size):
+- 📄 [Advanced Python 3 (Codecademy)](https://cg112358.github.io/certificates/AdvancedPython3_Codecademy.pdf)
+- 📄 [Command Line (Codecademy)](https://cg112358.github.io/certificates/CommandLineCert_Codecademy.pdf)
+- 📄 [Computer Science (Codecademy)](https://cg112358.github.io/certificates/ComputerScienceCert_Codecademy.pdf)
+- 📄 [Data Engineer (Codecademy)](https://cg112358.github.io/certificates/DataEngineerCert_Codecademy.pdf)
+- 📄 [Learn Git & GitHub (Codecademy)](https://cg112358.github.io/certificates/LearnGit-GitHubCert_Codecademy.pdf)
+- 📄 [MongoDB (Codecademy)](https://cg112358.github.io/certificates/MongoDBCert_Codecademy.pdf)
+
 
 
 ---
