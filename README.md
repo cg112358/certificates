@@ -19,7 +19,7 @@ This repository contains professional certificates demonstrating hands-on skills
 
 ## Repository structure
 ```text
-chris-galvez-certificates/
+certificates/
 ├─ README.md
 ├─ AdvancedPython3_Codecademy.pdf
 ├─ CommandLineCert_Codecademy.pdf
