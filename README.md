@@ -2,6 +2,8 @@
 
 This repository contains professional certificates demonstrating hands-on skills in Python, data engineering, version control, command line, MongoDB, and core CS topics.
 
+**View online (no download):** https://cg112358.github.io/certificates/
+
 ## Certificates
 - 📄 [Advanced Python 3 (Codecademy)](https://raw.githubusercontent.com/cg112358/certificates/main/AdvancedPython3_Codecademy.pdf)
 - 📄 [Command Line (Codecademy)](https://raw.githubusercontent.com/cg112358/certificates/main/CommandLineCert_Codecademy.pdf)
