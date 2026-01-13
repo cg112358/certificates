@@ -78,6 +78,11 @@ def main():
     else:
         print("ℹ️ README already up to date.")
 
-if __name__ == "__main__":
-    sys.stdout.reconfigure(encoding="utf-8")  # Windows-safe printing
-    main()
+    if __name__ == "__main__":
+        # Windows-safe printing. Pylance may not know about reconfigure on some stubs.
+        try:
+            getattr(sys.stdout, "reconfigure")(encoding="utf-8")  # type: ignore[attr-defined]
+        except Exception:
+            pass
+
+        main()

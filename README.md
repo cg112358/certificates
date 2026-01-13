@@ -11,6 +11,9 @@ Certificates included (click to open full size):
 - 📄 [Data Engineer (Codecademy)](https://cg112358.github.io/certificates/DataEngineerCert_Codecademy.pdf)
 - 📄 [Learn Git & GitHub (Codecademy)](https://cg112358.github.io/certificates/LearnGit-GitHubCert_Codecademy.pdf)
 - 📄 [MongoDB (Codecademy)](https://cg112358.github.io/certificates/MongoDBCert_Codecademy.pdf)
+- 📄 [Software Engineering for Data Scientists (Codecademy)](https://cg112358.github.io/certificates/DataScientistsSkillPath_Codecademy.pdf)
+- 📄 [Drafting Essentials Skills Certificate (Sierra College)](https://cg112358.github.io/certificates/DraftingEssentials_SierraCollege.pdf)
+
 
 ---
 
@@ -30,12 +33,15 @@ Certificates included (click to open full size):
 ├── CommandLineCert_Codecademy.pdf
 ├── ComputerScienceCert_Codecademy.pdf
 ├── DataEngineerCert_Codecademy.pdf
+├── DataScientistsSkillPath_Codecademy.pdf
+├── DraftingEssentials_SierraCollege.pdf
 ├── gen_tree.py
 ├── index.html
 ├── LearnGit-GitHubCert_Codecademy.pdf
 ├── MongoDBCert_Codecademy.pdf
 ├── README.md
 └── repo_tree.md
+
 ```
 <!-- END REPO TREE -->
 
