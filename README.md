@@ -4,7 +4,24 @@ This repository contains professional certificates demonstrating hands-on skills
 
 **View online (no download):** https://cg112358.github.io/certificates/
 
-Certificates included (click to open full size):
+---
+
+## Certificates
+
+| Certificate | Provider | Focus |
+|-------------|----------|-------|
+| Advanced Python 3 | Codecademy | Advanced Python, OOP, and language features |
+| Command Line | Codecademy | Shell navigation and scripting basics |
+| Learn Git & GitHub | Codecademy | Version control and branching workflows |
+| Computer Science | Codecademy | Core CS concepts and data structures |
+| Data Engineer | Codecademy | Data pipelines, SQL, and ETL concepts |
+| Software Engineering for Data Scientists | Codecademy | Engineering practices for data workflows |
+| MongoDB | Codecademy | NoSQL databases and document modeling |
+| Deploying with Netlify | Codecademy | Web deployment and CI/CD basics |
+| Drafting Essentials | Sierra College | Technical drafting fundamentals |
+
+### Open Certificates (Full Size)
+
 - 📄 [Advanced Python 3 (Codecademy)](https://cg112358.github.io/certificates/AdvancedPython3_Codecademy.pdf)
 - 📄 [Command Line (Codecademy)](https://cg112358.github.io/certificates/CommandLineCert_Codecademy.pdf)
 - 📄 [Learn Git & GitHub (Codecademy)](https://cg112358.github.io/certificates/LearnGit-GitHubCert_Codecademy.pdf)
@@ -18,7 +35,9 @@ Certificates included (click to open full size):
 ---
 
 **How to verify:** Each PDF includes Codecademy’s verification detail
-**Connect with me:**
+
+**Connect with me**
+
 - [GitHub](https://github.com/cg112358)
 - [LinkedIn](https://www.linkedin.com/in/christopher-galvez/)
 
