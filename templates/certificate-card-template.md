@@ -64,6 +64,8 @@ Update the following fields:
     </a>
   </p>
 </div>
+```
+
 3️⃣ Steps to Add a New Certificate
 1️⃣ Add the PDF file
 
